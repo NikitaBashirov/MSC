@@ -2,7 +2,7 @@
 
 ### MSC файлы
 
-MSC файлы доступны на GitHub.
+MSC файлы доступны на [GitHub](https://github.com/NikitaBashirov/MSC).
 
 ### Поддержка и помощь
 
